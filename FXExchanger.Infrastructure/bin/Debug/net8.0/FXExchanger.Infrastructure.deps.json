@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FXExchanger.Infrastructure/1.0.0": {
+        "dependencies": {
+          "FXExchanger.Core": "1.0.0"
+        },
+        "runtime": {
+          "FXExchanger.Infrastructure.dll": {}
+        }
+      },
+      "FXExchanger.Core/1.0.0": {
+        "runtime": {
+          "FXExchanger.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FXExchanger.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FXExchanger.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

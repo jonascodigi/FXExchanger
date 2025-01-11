@@ -1,0 +1,15 @@
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\bin\Debug\net8.0\FXExchanger.Infrastructure.deps.json
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\bin\Debug\net8.0\FXExchanger.Infrastructure.dll
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\bin\Debug\net8.0\FXExchanger.Infrastructure.pdb
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\bin\Debug\net8.0\FXExchanger.Core.dll
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\bin\Debug\net8.0\FXExchanger.Core.pdb
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\obj\Debug\net8.0\FXExchanger.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\obj\Debug\net8.0\FXExchanger.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\obj\Debug\net8.0\FXExchanger.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\obj\Debug\net8.0\FXExchanger.Infrastructure.AssemblyInfo.cs
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\obj\Debug\net8.0\FXExchanger.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\obj\Debug\net8.0\FXExchanger.Infrastructure.csproj.CopyComplete
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\obj\Debug\net8.0\FXExchanger.Infrastructure.dll
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\obj\Debug\net8.0\refint\FXExchanger.Infrastructure.dll
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\obj\Debug\net8.0\FXExchanger.Infrastructure.pdb
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\obj\Debug\net8.0\ref\FXExchanger.Infrastructure.dll
