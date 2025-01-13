@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FXExchanger.ConsoleApp", "FXExhanger\FXExchanger.ConsoleApp.csproj", "{B808592A-ABD6-494F-8591-6B76C611B7B0}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FXExchanger.Infrastructure", "FXExchanger.Infrastructure\FXExchanger.Infrastructure.csproj", "{54F93A53-616D-4786-B857-55B8C61A79ED}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FXExchanger.Core", "FXExchanger.Core\FXExchanger.Core.csproj", "{1E21AF34-54B4-4CB2-8661-DC1E743025F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FXExchanger.Tests", "FXExchanger.Tests\FXExchanger.Tests.csproj", "{FED104E0-105B-48A3-81C6-EE349A3CA1E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FXExchanger.Tests", "FXExchanger.Tests\FXExchanger.Tests.csproj", "{FED104E0-105B-48A3-81C6-EE349A3CA1E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FXExchanger.Shared", "FXExchanger.Shared\FXExchanger.Shared.csproj", "{97D48638-80F3-4A11-BB25-60C059ACD025}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FXExchanger.ConsoleApp", "FXExchanger.ConsoleApp\FXExchanger.ConsoleApp.csproj", "{9D1D6B44-D3D8-4ECA-B7B3-5961A4BB5A42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B808592A-ABD6-494F-8591-6B76C611B7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B808592A-ABD6-494F-8591-6B76C611B7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B808592A-ABD6-494F-8591-6B76C611B7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B808592A-ABD6-494F-8591-6B76C611B7B0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{54F93A53-616D-4786-B857-55B8C61A79ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{54F93A53-616D-4786-B857-55B8C61A79ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54F93A53-616D-4786-B857-55B8C61A79ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +31,14 @@ Global
 		{FED104E0-105B-48A3-81C6-EE349A3CA1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FED104E0-105B-48A3-81C6-EE349A3CA1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FED104E0-105B-48A3-81C6-EE349A3CA1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D48638-80F3-4A11-BB25-60C059ACD025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D48638-80F3-4A11-BB25-60C059ACD025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D48638-80F3-4A11-BB25-60C059ACD025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D48638-80F3-4A11-BB25-60C059ACD025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1D6B44-D3D8-4ECA-B7B3-5961A4BB5A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1D6B44-D3D8-4ECA-B7B3-5961A4BB5A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1D6B44-D3D8-4ECA-B7B3-5961A4BB5A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1D6B44-D3D8-4ECA-B7B3-5961A4BB5A42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

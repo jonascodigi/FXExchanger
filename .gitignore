@@ -1,0 +1,20 @@
+# Build Folders / Files
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.nuget.package
+
+# Visual Studio / VSCode
+.vs/
+.vscode/
+*.user
+*.suo
+*.userprefs
+
+# Packages
+*.nupkg
+packages/
+

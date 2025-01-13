@@ -2,7 +2,9 @@ C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\bin\Debug\net
 C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\bin\Debug\net8.0\FXExchanger.Infrastructure.dll
 C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\bin\Debug\net8.0\FXExchanger.Infrastructure.pdb
 C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\bin\Debug\net8.0\FXExchanger.Core.dll
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\bin\Debug\net8.0\FXExchanger.Shared.dll
 C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\bin\Debug\net8.0\FXExchanger.Core.pdb
+C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\bin\Debug\net8.0\FXExchanger.Shared.pdb
 C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\obj\Debug\net8.0\FXExchanger.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\obj\Debug\net8.0\FXExchanger.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jonas\source\repos\FXExchanger\FXExchanger.Infrastructure\obj\Debug\net8.0\FXExchanger.Infrastructure.AssemblyInfoInputs.cache

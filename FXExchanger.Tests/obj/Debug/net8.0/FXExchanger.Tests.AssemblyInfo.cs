@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FXExchanger.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9793f5f72c00d3a990e78fb70ff6bd296a74354")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7444660f141c9286f1ad7c482b2586506ea6de4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FXExchanger.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FXExchanger.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

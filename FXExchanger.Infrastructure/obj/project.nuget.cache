@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "VlTdSpQTGW2YQM8dl5l5ePVlNxgVKJzr6T/rWUIWOkN+OdT1thqvRSlqkOJMdrdQdqqlokoMV6Wgajp9SXFv+w==",
+  "dgSpecHash": "eJf8OUXecV8Ue6GZ2roAcjsZ8XOxvr0RHJs5KrbNisjSqDMZfPT+e4zoiM6YEL8HCw6v5APRA4dwxqPiaHW6Qg==",
   "success": true,
   "projectFilePath": "C:\\Users\\jonas\\source\\repos\\FXExchanger\\FXExchanger.Infrastructure\\FXExchanger.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0\\microsoft.extensions.caching.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0\\microsoft.extensions.caching.memory.9.0.0.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.options\\9.0.0\\microsoft.extensions.options.9.0.0.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.0\\system.diagnostics.diagnosticsource.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
